@@ -1,4 +1,7 @@
 # Website Project
+
+See live at https://bmsa-cs.github.io/website-starter/
+
 ## Overview
 
 For this assignment you will use a desktop code editor ([Visual Studio Code](https://code.visualstudio.com/)) and hosting service ([GitHub Pages](https://pages.github.com/)) to create and publish a website to the specifications of your client.
